@@ -1,0 +1,16 @@
+version: '3.4'
+services:
+  dt:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: dt
+    volumes:
+      - ./:/app
+    ports:
+          - "4002:3000"
+    networks:
+      - dt_net
+networks:
+  dt_net:
+    driver: bridge
