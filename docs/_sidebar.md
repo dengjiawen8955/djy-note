@@ -1,9 +1,7 @@
 * [README](README.md)
-- ChapterOne
-    * [SectionOne](1-ChapterOne/1a-SectionOne.md)
-    * [SectionTwo](1-ChapterOne/1b-SectionTwo.md)
-- ChapterTwo
-    * [SectionOne](2-ChapterTwo/2a-SectionOne.md)
-    * [SectionTwo](2-ChapterTwo/2b-SectionTwo.md)
-    * [SectionThree](2-ChapterTwo/2c-SectionThree.md)
+- 笔记
+    * [如何ssh免密登陆服务器](1-笔记/0304a-如何ssh免密登陆服务器.md)
+    * [如何免密推送代码到GitHub](1-笔记/0304b-如何免密推送代码到GitHub.md)
+- 日报
+    * [日报](2-日报/0304-日报.md)
 
